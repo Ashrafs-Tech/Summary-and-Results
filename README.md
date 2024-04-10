@@ -49,7 +49,10 @@ During the initial phase of the project, an experimental environment was establi
 ![image](https://github.com/Ashrafs-Tech/Summary-and-Results/assets/166546026/9a48d946-749c-452c-a02b-d531a7492b88)
 
 
-## All map queries actually returned no results due to no instances of malicious activity for the 24 hour period after hardening.
+
+
+
+All map queries actually returned no results due to no instances of malicious activity for the 24 hour period after hardening.
 
 ## Architecture AFTER Hardening and Implementing Security Controls
 
