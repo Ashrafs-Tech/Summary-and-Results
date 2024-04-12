@@ -51,7 +51,7 @@ During the initial phase of the project, an experimental environment was establi
 
 
 
-
+## MSSQL-auth-fail
 All map queries actually returned no results due to no instances of malicious activity for the 24 hour period after hardening.
 
 ## Architecture AFTER Hardening and Implementing Security Controls
